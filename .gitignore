@@ -1,0 +1,14 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.app
+
+# Generated output files
+*_compressed.png
+seam_carved.png
+seam_carved_auto.png
+temp_measure.png
+huffman_dictionary.txt
+arithmetic_model.txt
+arithmetic_compressed.bin
